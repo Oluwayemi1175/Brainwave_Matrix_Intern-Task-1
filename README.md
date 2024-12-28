@@ -51,4 +51,5 @@ Data Visualization for Retail Sales.
 
 ![Brainwave Sales Visual](https://github.com/user-attachments/assets/08bf9f37-e37b-4fa4-9fb1-fa1413e3b5fe)
 
+### Result
 
