@@ -57,7 +57,7 @@ The insights revealed that Electronics generated the highest revenue across all 
 May recorded the highest revenue for both Electronics and Clothing, with total revenues of 23K and 17K, respectively. On the other hand, the Beauty category peaked in July with 16K, potentially due to increased demand for personal care products during summer vacations or holiday preparations. 
 
 ### Recommendations
-- Focusing on Electronics since it generates the highest revenue across all segments by running targeted promotions, expanding product range or improving inventory levels to meet demand.
+- Focusing on Electronics since it generates the highest revenue across all segments by running targeted promotions, expanding product range, or improving inventory levels to meet demand.
 - Plan promotional events for each season within a year to boost sales. This can be done by incorporating discounts, bundles, or exclusive offers.
 - Increase the visibility of Beauty products together with other categories during high-performing months.
 - Exploring customer demographics to understand preferences better, such as the age groups or genders that are driving sales in each category.
