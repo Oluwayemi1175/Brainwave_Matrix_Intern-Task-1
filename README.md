@@ -3,6 +3,22 @@
 ### Project Title: Retail Sales Performance Dashboard
 [Project Overview](#project-overview)
 
+[Data Source](#data-source)
+
+[Tools Used](#tools-used)
+
+[Field Descriptions for the Retail Sales](#field-descriptions-for-the-retail-sales)
+
+[Data Preparation](#data-preparation)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Visualization](#data-visualization)
+
+[Result](#Result)
+
+[Recommendations](#Recommendations)
+
 ### Project Overview
 This dataset captured transactional sales data, providing valuable insights into the customer behaviour, product performance and overall sales trend. By identifying the best performance and understanding sales dynamics, this analysis will provide valuable data-driven insights to support informed business decisions, optimize product offerings and enhance customer retention strategies. The following highlights the key features: determining the best-selling product categories and high-value transactions, analyzing customer demographics to understand purchasing behaviors, studying revenue trends over time or by product category, and assessing product demand to optimize stock levels.
 
