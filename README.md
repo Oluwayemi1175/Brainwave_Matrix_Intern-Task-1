@@ -52,4 +52,9 @@ Data Visualization for Retail Sales.
 ![Brainwave Sales Visual](https://github.com/user-attachments/assets/08bf9f37-e37b-4fa4-9fb1-fa1413e3b5fe)
 
 ### Result
+The retail Sales dataset was visualized, and a total of 456K was generated, while the average transaction amount is 456. Three product categories generated revenue from the retail sales data: Beauty, Clothing, and Electronics. Electronics contributed the highest revenue, with a total of 157K, followed by Clothing with 156K and Beauty with 144 K.
+The insights revealed that Electronics generated the highest revenue across all segments, including gender, age range, and yearly sales. Clothing accounted for approximately 0.64% less revenue than Electronics. The Beauty category generated the least income among the three.
+May recorded the highest revenue for both Electronics and Clothing, with total revenues of 23K and 17K, respectively. On the other hand, the Beauty category peaked in July with 16K, potentially due to increased demand for personal care products during summer vacations or holiday preparations. 
+
+### Recommendations
 
